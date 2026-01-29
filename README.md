@@ -1,4 +1,4 @@
-📽️ Filmmaker Portfolio | Yehia El-Halaby
+##📽️ Filmmaker Portfolio | Yehia El-Halaby
 A minimalist, high-contrast digital portfolio designed for a film student. This project focuses on a "cinematic-first" user experience, using dark themes and smooth transitions to simulate a screening room environment.
 
 🚀 Overview
